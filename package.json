@@ -1,0 +1,15 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "First npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xinhai Zou",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.4.4",
+    "underscore": "^1.13.6"
+  }
+}
